@@ -6,7 +6,25 @@ Obesity is a serious public health problem. Existing research has shown a strong
 This repository contains processed neighborhood-level diet and physical acticity measurements from anonymized mobile phone location data, socioeconomic and demographic variables from the American Community Survey (ACS) of the US Census Bureau, and the scripts for performing five different statistial and machine learning models. More details about this work are available in our full paper:
 
 <I>Zhou, R.Z., Hu, Y., Tirabassi, J.N. et al. Deriving neighborhood-level diet and physical activity measurements from anonymized mobile phone location data for enhancing obesity estimation. Int J Health Geogr 21, 22 (2022).</I>  [[PDF]](https://doi.org/10.1186/s12942-022-00321-4)
+ 
 
+<br />
+<br />
+
+<p align="center">
+<img align="center" src="Fig/figure_place_visits.png" width="600" />
+<br />
+Figure 1. A map visualization of the visits from census tracts to fast-food restaurants in a week of 2018 in NYC.
+</p>
+
+<br />
+<br />
+<p align="center">
+<img align="center" src="Fig/figure_study_design.png" width="600" />
+<br />
+Figure 3. An overview of the study design using NYC as an example.
+</p>
+<br />
 
 
 
