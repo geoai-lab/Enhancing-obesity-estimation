@@ -33,7 +33,7 @@ Figure 2. An overview of the study design using NYC as an example.
 * Data/03 Data for Multicollinearity Diagnosis: This folder contains data for multicollinearity diagnosis.
 * Data/04 Data for RF and DNN Optimal Parameters Search: This folder contains data for RF and DNN optimal parameters search, which is the random 70% dataset from "Data/01 Processed Dataset".
 * Data/05 Coordinates info for GWR: This folder contains coordinate information of census tract centroids specifically for GWR model.
-* Data/06 Data for GRF Optimal Parameters Search: This folder contains data for GRF optimal parameters search, which is the random 70% dataset from "Data/01 Processed Dataset" and have coordinate information of census tract centroids.
+* Data/06 Data for GRF Optimal Parameters Search: This folder contains data for GRF optimal parameters search, which is the random 70% dataset from "Data/01 Processed Dataset" and has coordinate information of census tract centroids.
 * Data/07 GRF Local Importance: This folder contains local feature importance generated from GRF model.
 * SourceCode: This folder contains scripts for performing five different statistial and machine learning models and relevant analysis.
 
