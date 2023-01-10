@@ -37,7 +37,7 @@ Figure 2. An overview of the study design using NYC as an example.
 * Data/07 GRF Local Importance: This folder contains local feature importance generated from GRF model.
 * SourceCode: This folder contains scripts for performing five different statistial and machine learning models and relevant analysis.
 
-### Project dependencies:
+### Project dependencies
 * Python 3.8
 
 
