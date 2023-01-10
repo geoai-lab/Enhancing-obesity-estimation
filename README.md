@@ -22,7 +22,7 @@ Figure 1. A map visualization of the visits from census tracts to fast-food rest
 <p align="center">
 <img align="center" src="Fig/figure_study_design.png" width="600" />
 <br />
-Figure 3. An overview of the study design using NYC as an example.
+Figure 2. An overview of the study design using NYC as an example.
 </p>
 <br />
 
